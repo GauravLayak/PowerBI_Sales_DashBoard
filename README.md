@@ -53,6 +53,8 @@ The project employs a **star schema** with:
 ✔ **Efficiency:** Optimized performance for large datasets  
 ✔ **User-Friendly:** Interactive filtering and navigation tools  
 
+![image alt](http://github.com/GauravLayak/PowerBI_Sales_DashBoard/blob/main/Sales%20Analytics%20Dashboard.png)
+
 ---
 
 ## 📢 Conclusion
